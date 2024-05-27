@@ -1,0 +1,13 @@
+.contenedor-progress {
+    height: 25px;
+    background-color: aquamarine;
+    position: relative;
+    border-radius: 7px;
+}
+
+.contenedor-progress .progress-bar {
+    position: absolute;
+    height: 100%;
+    border-radius: 7px;
+    background-color: blueviolet;
+}

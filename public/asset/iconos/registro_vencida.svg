@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW Home & Student X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="32px" height="32px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 32 32"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:white;stroke-width:0.900044;stroke-linecap:round;stroke-linejoin:round}
+    .fil4 {fill:none}
+    .fil3 {fill:none;fill-rule:nonzero}
+    .fil0 {fill:#F7F7F7}
+    .fil2 {fill:white}
+    .fil1 {fill:#9F2241;fill-rule:nonzero}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <path d="M6 1l20 0c3,0 5,2 5,5l0 20c0,3 -2,5 -5,5l-20 0c-3,0 -5,-2 -5,-5l0 -20c0,-3 2,-5 5,-5z"/>
+   </clipPath>
+    <clipPath id="id1" style="clip-rule:nonzero">
+     <path d="M24 26l-16 0c-1,0 -2,-1 -3,-1 0,-1 0,-1 0,-2 0,0 0,-1 0,-1l9 -15c0,0 1,-1 2,-1 1,0 2,1 2,1l9 15c0,0 0,1 0,1l0 0c0,1 0,1 0,2 -1,0 -2,1 -3,1z"/>
+    </clipPath>
+    <clipPath id="id2" style="clip-rule:nonzero">
+     <path d="M6 1l20 0c3,0 5,2 5,5l0 20c0,3 -2,5 -5,5l-20 0c-3,0 -5,-2 -5,-5l0 -20c0,-3 2,-5 5,-5z"/>
+    </clipPath>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0" d="M6 1l20 0c3,0 5,2 5,5l0 20c0,3 -2,5 -5,5l-20 0c-3,0 -5,-2 -5,-5l0 -20c0,-3 2,-5 5,-5z"/>
+  <g style="clip-path:url(#id0)">
+   <g id="_969378648">
+    <path id="1" class="fil1" d="M24 26l-16 0c-1,0 -2,-1 -3,-1 0,-1 0,-1 0,-2 0,0 0,-1 0,-1l9 -15c0,0 1,-1 2,-1 1,0 2,1 2,1l9 15c0,0 0,1 0,1l0 0c0,1 0,1 0,2 -1,0 -2,1 -3,1z"/>
+   </g>
+   <g style="clip-path:url(#id1)">
+    <g>
+     <path id="2" class="fil2 str0" d="M15 13l2 0c0,0 0,0 0,0l0 6c0,0 0,0 -1,0l0 0c-1,0 -1,0 -1,0l0 -6c0,0 0,0 0,0zm1 10c-1,0 -1,-1 -1,-1 0,-1 0,-1 1,-1 1,0 1,0 1,1 0,0 0,1 -1,1z"/>
+    </g>
+   </g>
+   <g style="clip-path:url(#id2)">
+    <path class="fil3" d="M24 26l-16 0c-1,0 -2,-1 -3,-1 0,-1 0,-1 0,-2 0,0 0,-1 0,-1l9 -15c0,0 1,-1 2,-1 1,0 2,1 2,1l9 15c0,0 0,1 0,1l0 0c0,1 0,1 0,2 -1,0 -2,1 -3,1z"/>
+   </g>
+  </g>
+  <path class="fil4" d="M6 1l20 0c3,0 5,2 5,5l0 20c0,3 -2,5 -5,5l-20 0c-3,0 -5,-2 -5,-5l0 -20c0,-3 2,-5 5,-5z"/>
+ </g>
+</svg>

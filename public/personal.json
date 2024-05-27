@@ -1,0 +1,22 @@
+{
+"personal" : [
+   {  
+         "firstName":"Ram",
+         "lastName":"Sharma",
+         "cargo":"jud",
+         "permiso":"editar"
+   },
+   {
+         "firstName":"algo",
+         "lastName":"ardgrr",
+         "cargo":"jefe",
+         "permiso":"editar"
+   },
+    {
+         "firstName":"mas",
+         "lastName":"supre",
+         "cargo":"director",
+         "permiso":"editar"
+   }
+ ]
+}
