@@ -59,25 +59,38 @@ p {
 	width: 80%; */
 }
 
-.cdmx {
+/* .cdmx {
     width: 100%;
     height: auto;
     float: left;
+} */
+
+@media (max-width: 768px) {
+    .buscar{
+        width: 100%;
+        height: auto;
+    }
+}
+@media (min-width: 390px) {
+    .buscar1{
+        flex-flow: row;
+    }
 }
 
-@media (min-width: 576px) {
+
+@media (max-width: 768px) {
     .cdmx {
         width: 100%;
         height: auto;
     }
 }
 
-@media (min-width: 960px) {
+/* @media (min-width: 960px) {
     .cdmx {
         width: 60%;
         height: auto;
     }
-}
+} */
 
 .saf {
     width: 10%;
@@ -297,7 +310,7 @@ span .perfil>h2 {
 }
 
 /*Buscador*/
-.Hd-buscar span {
+/* .Hd-buscar span {
     padding: 10px 30px 10px 10px;
     margin: 10px 0px 0px 0px;
     width: 180px;
@@ -320,7 +333,7 @@ span .perfil>h2 {
     text-align: center;
     box-shadow: 0px 0px 7px #e6e6e6;
     margin-left: 5px;
-}
+} */
 
 .form__field {
     font-family: "Source Sans Pro", sans-serif;

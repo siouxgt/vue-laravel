@@ -191,9 +191,9 @@
 
         </div>
         <div class="col-md col-sm-12 rounded bg-verde p-3 mt-3" style="max-height: 480px">
-           {{--  <div id="app">
+            <div id="app">
                 <example-component></example-component>
-            </div> --}}
+            </div>
             <a href="#" class="text-decoration-none mt-3">
                 <div class="image-tienda text-center p-3 mt-3">
                     <img src="{{ asset('asset/img/admon_tienda.svg') }}" alt="/"
